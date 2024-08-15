@@ -88,3 +88,5 @@ models/
 train-hdf5/
 test-hdf5/
 meta/
+misc/
+plots/
